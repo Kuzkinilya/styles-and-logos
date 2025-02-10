@@ -78,7 +78,7 @@
 					.table-container-5 {
                         border-radius: 10px;
                         padding: 5px;
-						width: 85%;
+						width: 95%;
 						background-color: #DAA520;
 					}
 					
